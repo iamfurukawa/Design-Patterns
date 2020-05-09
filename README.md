@@ -1,2 +1,2 @@
-# Design-Patterns
+# Design Patterns
 Learning design patterns.
